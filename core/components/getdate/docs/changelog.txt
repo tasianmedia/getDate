@@ -1,0 +1,5 @@
+Changelog for getDate.
+
+getDate 1.0.0-pl (November 22, 2013)
+====================================
+- Initial release.
