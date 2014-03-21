@@ -5,17 +5,15 @@
 Simply download through MODX Package Management, and install.
 
 ###Documentation
-Official Documentation:
-http://rtfm.modx.com/display/ADDON/getDate
+Official Documentation: http://rtfm.modx.com/display/ADDON/getDate
 
-GitHub Repository:
-http://github.com/tasianmedia/getDate
+GitHub Repository: http://github.com/tasianmedia/getDate
 
-Bugs & Feature Requests:
-http://github.com/tasianmedia/getDate/issues
+Bugs & Feature Requests: http://github.com/tasianmedia/getDate/issues
 
 ###Details
 Author: David Pede (dev@tasianmedia.com) (https://twitter.com/davepede)
+
 Copyright: (C) 2013 David Pede. All rights reserved. (dev@tasianmedia.com)
 
 ###License
